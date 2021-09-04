@@ -14,7 +14,7 @@ The program gets by user input a monthly income amount. It then divides the amou
 There are six categories, called Purchase categories:
 "Groceries";"Fuel";"Eating out";"Squandering";"Occasional significant purchases";"Bills and savings".
 
-Once the budget is created it used as a data base.
+Once the budget is created it used as a database.
 User can add or remove purchases, edit budgets and run queries.
 
 to run HomeBudgetManager.exe you'll need the latest java version. 
